@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-label="Channel sync">
+  <rect width="960" height="720" rx="36" fill="#FAF7F2"/>
+  <circle cx="480" cy="360" r="145" fill="#2A2522"/>
+  <circle cx="260" cy="190" r="70" fill="#C66A30"/><circle cx="700" cy="190" r="70" fill="#7A8471"/><circle cx="260" cy="530" r="70" fill="#B8956A"/><circle cx="700" cy="530" r="70" fill="#C66A30" opacity=".75"/>
+  <path d="M322 226l103 80M638 226l-103 80M322 494l103-80M638 494l-103-80" stroke="#2A2522" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+  <path d="M430 360h100m-44-44 44 44-44 44" stroke="#FAF7F2" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

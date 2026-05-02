@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Maitri mark">
+  <rect width="128" height="128" rx="30" fill="#2A2522"/>
+  <path d="M28 96V31h17l19 37 19-37h17v65H86V56L70 87H58L42 56v40H28Z" fill="#FAF7F2"/>
+  <circle cx="99" cy="29" r="10" fill="#C66A30"/>
+</svg>

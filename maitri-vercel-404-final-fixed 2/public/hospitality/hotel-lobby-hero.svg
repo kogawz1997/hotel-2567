@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Warm hotel lobby">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#FAF7F2"/><stop offset="1" stop-color="#F1D5BB"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <rect x="140" y="170" width="1320" height="620" rx="48" fill="#fff" opacity=".78"/>
+  <path d="M260 730V330c0-55 45-100 100-100h880c55 0 100 45 100 100v400" fill="#2A2522" opacity=".08"/>
+  <rect x="355" y="290" width="890" height="390" rx="34" fill="#2A2522"/>
+  <rect x="405" y="340" width="250" height="290" rx="24" fill="#C66A30" opacity=".84"/>
+  <rect x="690" y="340" width="250" height="290" rx="24" fill="#B8956A" opacity=".86"/>
+  <rect x="975" y="340" width="220" height="290" rx="24" fill="#7A8471" opacity=".86"/>
+  <rect x="250" y="690" width="1100" height="80" rx="28" fill="#6D3825" opacity=".85"/>
+  <circle cx="310" cy="270" r="44" fill="#C66A30" opacity=".22"/><circle cx="1290" cy="250" r="64" fill="#B8956A" opacity=".24"/>
+  <text x="800" y="830" text-anchor="middle" font-family="Inter,Arial" font-size="42" fill="#2A2522" opacity=".72">Maitri Hospitality OS</text>
+</svg>

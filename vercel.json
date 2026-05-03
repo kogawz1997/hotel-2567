@@ -1,7 +1,7 @@
 {
   "framework": "nextjs",
   "buildCommand": "npm run build:vercel",
-  "installCommand": "npm ci --no-audit --no-fund --progress=false --prefer-offline",
+  "installCommand": "npm install --no-audit --no-fund --progress=false"
   "env": {
     "USE_MOCK_SERVICES": "1",
     "NEXT_PUBLIC_USE_MOCK_SERVICES": "1",
